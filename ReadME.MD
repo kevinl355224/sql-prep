@@ -1,4 +1,5 @@
 # SQL Interview preparation
+   For more details, please refer to my [Medium](https://medium.com/@kevinl355224) article.
 
 ## 🔧 Set Up the Database (PostgreSQL + Pagila)
 
