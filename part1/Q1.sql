@@ -1,5 +1,5 @@
 /*
-    List all payments with an amount less than $7.
+  List all payments with an amount less than $7.
 */
 SELECT
     *

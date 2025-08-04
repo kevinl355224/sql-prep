@@ -1,6 +1,6 @@
 /*
-    Query the number of distinct film rental rates.
+  Query the number of distinct film rental rates.
 */
 SELECT
-	COUNT(DISTINCT rental_rate)
+  COUNT(DISTINCT rental_rate)
 FROM film;
